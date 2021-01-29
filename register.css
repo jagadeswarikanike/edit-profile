@@ -1,0 +1,30 @@
+.main-heading {
+    color: rgb(100, 98, 98);
+    font-size: 20px;
+}
+.hr {
+    color: rgb(90, 88, 88);
+    width: 100%;
+}
+.introduction {
+    color: rgb(114, 112, 112);
+    font-size: 18px;
+}
+.introduction-para {
+    color: rgb(114, 112, 112);
+    font-size: 12px;
+}
+.image-design {
+    width: 100px;
+    height: 100px;
+    background-color:  rgb(27, 94, 238);
+}
+.button-design {
+    background-color: rgb(108, 108, 207);
+    border-width: solid;
+    border-color: rgb(58, 58, 172);
+    
+}
+input[type="file"] {
+    display: none;
+}
